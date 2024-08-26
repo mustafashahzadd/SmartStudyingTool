@@ -1,6 +1,8 @@
-streamlit
-python-dotenv
-ibm_watsonx_ai
-pandas==1.5.3
+pandas<2.2.0
+numpy<2
+ibm-watson-machine-learning==1.0.360
+ibm-watsonx-ai==1.1.6
+torchvision==0.19.0pip cache purge
 pdfplumber
 docx2txt
+rm -rf /home/adminuser/venv

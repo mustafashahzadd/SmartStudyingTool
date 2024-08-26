@@ -1,1 +1,6 @@
 streamlit
+python-dotenv
+ibm_watsonx_ai
+pandas==1.5.3
+pdfplumber
+docx2txt

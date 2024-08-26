@@ -6,3 +6,4 @@ torchvision==0.19.0
 pdfplumber
 docx2txt
 python-dotenv
+streamlit
